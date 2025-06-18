@@ -1,4 +1,4 @@
-Perfect! Here's a **clean, step-by-step tutorial** you can directly copy into your GitHub repository README or documentation to help users fix the `sim_vehicle.py: command not found` issue and set up their ArduPilot SITL environment properly:
+
 
 ---
 
